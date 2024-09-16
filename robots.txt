@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://wesiqudolu.netlify.app/sitemap.xml
